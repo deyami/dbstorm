@@ -1,0 +1,15 @@
+Reform DBStorm-0.0.1 RELEASE NOTES
+
+功能：
+1.命令行管理
+2.可视化管理
+3.库sharding
+4.热切换
+5.jdbc api泛型化支持
+
+下一版本计划：
+1.表sharding支持
+2.数据库配置删除和依赖检测
+3.高级jdbc api
+
+
